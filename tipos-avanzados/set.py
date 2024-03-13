@@ -11,7 +11,6 @@ print(fruits)
 fruits.remove('banana')
 print(fruits)
 
-
 set_A = {1, 2, 3}
 set_B = {3, 4, 5}
 
